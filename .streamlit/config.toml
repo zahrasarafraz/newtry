@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#3B5BDB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F4FB"
+textColor = "#1B2437"
+font = "sans serif"
+
+[server]
+# Biggest upload in MB (the code also checks this)
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false

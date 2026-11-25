@@ -1,0 +1,19 @@
+# Virtual environment and Python files
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets and local settings
+.streamlit/secrets.toml
+.env
+
+# Temporary and local files
+temp_audio.*
+progress_history.csv
+.DS_Store
+
+# Audio files used for testing
+*.mp3
+*.wav
+*.m4a
