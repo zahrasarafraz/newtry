@@ -1,4 +1,4 @@
-streamlit==1.xx.x
-faster-whisper==1.2.1
-av==18.1.0
-pandas==2.x.x
+streamlit>=1.40
+faster-whisper
+av<19
+pandas
